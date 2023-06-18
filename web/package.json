@@ -1,0 +1,48 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "compile": "graphql-codegen",
+    "watch": "graphql-codegen -w"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.0-beta.1",
+    "@azure/storage-blob": "^12.14.0",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/merriweather": "^5.0.3",
+    "@fontsource/poppins": "^5.0.3",
+    "@graphql-codegen/cli": "^4.0.1",
+    "@graphql-codegen/client-preset": "^4.0.0",
+    "dayjs": "^1.11.8",
+    "framer-motion": "^10.12.16",
+    "graphql": "^16.6.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-drag-drop-files": "^2.3.10",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.13.0",
+    "sort-by": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.59.0",
+    "@typescript-eslint/parser": "^5.59.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9"
+  }
+}

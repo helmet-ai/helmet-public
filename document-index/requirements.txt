@@ -1,0 +1,4 @@
+llama-index==0.6.27
+llama-hub==0.0.3
+flask==2.3.2
+wget==3.2

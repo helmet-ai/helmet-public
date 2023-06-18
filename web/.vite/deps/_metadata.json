@@ -1,0 +1,71 @@
+{
+  "hash": "a487fc6b",
+  "browserHash": "f59d3698",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1699a0c1",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "58468f81",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b28b658c",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "57e8dff4",
+      "needsInterop": false
+    },
+    "@chakra-ui/react": {
+      "src": "../../node_modules/@chakra-ui/react/dist/index.mjs",
+      "file": "@chakra-ui_react.js",
+      "fileHash": "13585df9",
+      "needsInterop": false
+    },
+    "dayjs": {
+      "src": "../../node_modules/dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "1f7fcba7",
+      "needsInterop": true
+    },
+    "dayjs/plugin/relativeTime": {
+      "src": "../../node_modules/dayjs/plugin/relativeTime.js",
+      "file": "dayjs_plugin_relativeTime.js",
+      "fileHash": "148db7c7",
+      "needsInterop": true
+    },
+    "react-icons/fi": {
+      "src": "../../node_modules/react-icons/fi/index.esm.js",
+      "file": "react-icons_fi.js",
+      "fileHash": "982ad34e",
+      "needsInterop": false
+    },
+    "@apollo/client": {
+      "src": "../../node_modules/@apollo/client/index.js",
+      "file": "@apollo_client.js",
+      "fileHash": "f89d78a6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PRK46SJB": {
+      "file": "chunk-PRK46SJB.js"
+    },
+    "chunk-FLAVOKRJ": {
+      "file": "chunk-FLAVOKRJ.js"
+    },
+    "chunk-AC2VUBZ6": {
+      "file": "chunk-AC2VUBZ6.js"
+    }
+  }
+}

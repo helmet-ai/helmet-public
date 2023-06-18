@@ -1,0 +1,17 @@
+export default {
+  background: '#FBFBFB',
+  accentText: '#FFFFFF',
+  divider: '#DFDFDF',
+  text: '#000000',
+  subtext: '#666666',
+  accent: '#554EA6',
+  accent100: '#DCD0FF',
+  accent300: '#9A76FF',
+  active: '#7C4FFF',
+  inactive: '#BFA9FF',
+  documentGreen: '#CFFFB9',
+  cardBackground: '#FFFFFF',
+  green: '#00D63C',
+  orange: '#FFA800',
+  red: '#FF0000',
+};
